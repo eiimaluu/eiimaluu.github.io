@@ -1,0 +1,36 @@
+
+.header {
+    background-color: #3e2f27;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.header img {
+    border-radius: 50%;
+    border: 5px solid #ba9a83;
+    max-width: 250px;
+    height: auto;
+}
+
+.personal-info {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.personal-info h1 {
+    font-size: 36px;
+    margin: 10px 0;
+}
+
+.personal-info p {
+    font-size: 16px;
+    margin: 5px 0;
+}
+
+
+.container {
+    margin-top: 20px;
+    padding: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
